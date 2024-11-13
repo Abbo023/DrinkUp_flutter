@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>940866669514-irl1ttr7rkjnp9g3gk3mb90rvfvoom7g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.940866669514-irl1ttr7rkjnp9g3gk3mb90rvfvoom7g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>940866669514-78n0ea8qes2lfv6uf6ql099qikmnkgfk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2mijDObFW0tsD46mGhSAjtmLIsrbmf5Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>940866669514</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.proveFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>drinkup-b2ad6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>drinkup-b2ad6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:940866669514:ios:c52e6dbffb6eb47f8f5d33</string>
+	<key>DATABASE_URL</key>
+	<string>https://drinkup-b2ad6-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
