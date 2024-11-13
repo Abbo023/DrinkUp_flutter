@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:prove_flutter/Autenticazione.dart';
+import 'package:DrinkUp_flutter/Autenticazione.dart';
 
 class UserSettings extends StatefulWidget {
   @override

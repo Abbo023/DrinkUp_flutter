@@ -17,7 +17,7 @@ class PersonalDetail extends StatelessWidget {
       appBar: AppBar(
         title: Text(personal.name),
       ),
-      body: Padding(
+      body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
@@ -92,4 +92,5 @@ class PersonalDetail extends StatelessWidget {
     }
     return Column(children: ingredients);
   }
+
 }

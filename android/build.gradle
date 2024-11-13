@@ -1,11 +1,12 @@
 buildscript {
+    ext.kotlin_version = '1.9.22'
     repositories {
         google()
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:8.1.0' // Aggiorna alla versione corretta del plugin Gradle
-        classpath 'com.google.gms:google-services:4.3.15' // Assicurati di avere la versione corretta
+        classpath 'com.android.tools.build:gradle:8.2.0' // Aggiorna alla versione corretta del plugin Gradle
+        classpath 'com.google.gms:google-services:4.4.2' // Assicurati di avere la versione corretta
     }
 }
 
